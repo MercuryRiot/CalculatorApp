@@ -22,8 +22,5 @@ This Android calculator app allows users to perform basic arithmetic operations,
 - If you enter an invalid expression or attempt to divide by zero, "Error" will be displayed.
 - Press the "C" button to clear both the input and output.
 
-## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - The layout and design of this calculator app were inspired by various Android calculator apps available on the market.
